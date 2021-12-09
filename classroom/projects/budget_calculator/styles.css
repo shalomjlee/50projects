@@ -1,0 +1,11 @@
+.budget-display {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+.form-container {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
